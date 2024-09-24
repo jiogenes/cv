@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Junyung Ji and I'm a Ph.D. student in Hanyang university at Ansan. I have a strong interest in natural language processing (NLP) within the field of artificial intelligence (AI). My research focuses on the applications of prompt engineering and Retrieval-Augmented Generation (RAG) techniques in large language models (LLM). My advisor is [Younghoon Kim](https://sites.google.com/site/nongaussian) and I am studing in the [Big Data Mining Lab.](https://nongaussian.github.io/)
+  Hi, my name's Junyung Ji and I'm a Ph.D. student in Hanyang university ERICA at Ansan. I have a strong interest in natural language processing (NLP) within the field of artificial intelligence (AI). My research focuses on the applications of prompt engineering and Retrieval-Augmented Generation (RAG) techniques in large language models (LLM). My advisor is [Younghoon Kim](https://sites.google.com/site/nongaussian) and I am studing in the [Big Data Mining Lab.](https://nongaussian.github.io/)
 
   I am most skilled in: <mark>Python</mark> language and <mark>Pytorch</mark> , <mark>Huggingface</mark> library.
 
@@ -92,32 +92,32 @@ content:
     content:
       - layout: top
         title: Data Mining
-        caption: Second semester 2024
+        caption: Fall 2024
         sub_title: Teaching assistant
 
       - layout: top
         title: Machine Learning
-        caption: First semester 2024
+        caption: Spring 2024
         sub_title: Teaching assistant
 
       - layout: top
         title: Program Design Methodology
-        caption: Second semester 2023
+        caption: Fall 2023
         sub_title: Teaching assistant
 
       - layout: top
         title: Digital Logic Circuit Design
-        caption: First semester 2023
+        caption: Spring 2023
         sub_title: Teaching assistant
 
       - layout: top
         title: Understanding of Artificial Intelligence
-        caption: Second semester 2022
+        caption: Fall 2022
         sub_title: Teaching assistant
 
       - layout: top
         title: Logical Foundations of Programming
-        caption: First semester 2022
+        caption: Spring 2022
         sub_title: Teaching assistant
 
   - title: Industrial Experience # Title for the section
